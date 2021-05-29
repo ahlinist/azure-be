@@ -1,0 +1,4 @@
+com/example/demo/AzureBeApplication.java
+ com.example.demo.AzureBeApplication
+com/example/demo/controller/DemoController.java
+ com.example.demo.controller.DemoController
